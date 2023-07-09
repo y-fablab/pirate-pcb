@@ -1,0 +1,42 @@
+### Footprint positions - created on 2023 July 09, Sunday 14:41:37 ###
+### Printed by KiCad version 7.0.5-0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                           PosX       PosY       Rot  Side
+C1        100n           C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    26.4425    18.4150  180.0000  top
+D1        1N4007         D_SMA                                          17.2400    -2.5400    0.0000  top
+D2        1N4007         D_SMA                                          17.2400     1.9050    0.0000  top
+D3        BAT43WS        D_SOD-323_HandSoldering                        28.7220    10.1600    0.0000  top
+D4        1N4007         D_SMA                                         -21.6850    -9.5250  180.0000  top
+D5        1N4007         D_SMA                                          17.2400    -6.9850    0.0000  top
+D6        1N4007         D_SMA                                          17.2400   -11.4300    0.0000  top
+D7        1N4007         D_SMA                                         -28.0350    11.4300  180.0000  top
+D8        BAT43WS        D_SOD-323_HandSoldering                        27.6860    -3.1950   90.0000  top
+D9        BAT43WS        D_SOD-323_HandSoldering                        29.9720    -3.1950   90.0000  top
+G1        LOGO           y-fablab_logo_10mm                             28.1940   -11.6840    0.0000  top
+J1        Battery        TerminalBlock_KaiFeng_KF141R-2_1x02_P2.54mm    14.6050    17.1450    0.0000  top
+J2        Lock           JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical         -22.8600   -16.5100    0.0000  top
+J3        Encoder        PinHeader_1x03_P2.54mm_Vertical                -2.5400   -16.5100   90.0000  top
+J4        Encoder        PinHeader_1x04_P2.54mm_Vertical               -15.2400   -16.5100   90.0000  top
+J5        Button         PinHeader_1x02_P2.54mm_Vertical                17.7800   -16.5100   90.0000  top
+J6        Leds           PinHeader_1x03_P2.54mm_Vertical                 7.6200   -16.5100   90.0000  top
+J7        Speaker        PinHeader_1x02_P2.54mm_Vertical               -22.8600    17.1450   90.0000  top
+Q1        AO3400A        SOT-23                                         28.8775     3.1750  180.0000  top
+Q2        AO3401A        SOT-23                                         25.7025    13.9700  180.0000  top
+Q3        AO3400A        SOT-23                                        -29.8450   -11.1275  -90.0000  top
+Q4        AO3400A        SOT-23                                        -29.2100    -1.5725   90.0000  top
+Q5        AO3400A        SOT-23                                        -29.2100     4.7775   90.0000  top
+R1        10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    29.8450    13.9700   90.0000  top
+R2        10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    24.7650     7.3425  -90.0000  top
+R3        10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    28.9325     6.9850    0.0000  top
+R4        10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -24.7650    -1.5475  -90.0000  top
+R5        10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -24.7650     4.8025  -90.0000  top
+R6        200R           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -19.4075     1.9050  180.0000  top
+R7        200R           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -19.4075     5.0800  180.0000  top
+R8        200R           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -19.4075     8.2550  180.0000  top
+R9        200R           R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -19.4075    11.4300  180.0000  top
+R10       10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   -30.1225    -6.3500  180.0000  top
+R11       10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    24.7650     0.3575  -90.0000  top
+R12       10K            R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    23.8525    -4.4450    0.0000  top
+U1        WeMos_D1_mini  WEMOS_D1_mini_light                            10.1600    -5.0800  180.0000  top
+## End
